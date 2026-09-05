@@ -17,4 +17,4 @@ source /etc/bmn/init #(Sim... só para imprimir uns textos...)
 sudo bmn -v -i n-bash ${desktop_atual}-shell md-env
 
 # Clean environment
-mv ../bmn-srcipt /tmp
+mv ../bmn-script /tmp
